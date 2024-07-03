@@ -48,7 +48,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'whitenoise',
-    'drf-yasg'
+    'drf_yasg',
     # localAPPs
     'cinema',
 ]
